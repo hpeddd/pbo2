@@ -1,6 +1,6 @@
 public class Mahasiswa {
-    private final String nama = "furqon";
-    private final String nim = "202410370311374";
+    private final String nama = "hafid";
+    private final String nim = "202410370110331";
 
     public boolean login(String inputNama, String inputNim) {
         if (inputNama.equals(nama) && inputNim.equals(nim)) {
